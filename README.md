@@ -2,7 +2,7 @@
 *An empathetic behavioral fintech platform bridging mental health telemetry with automated banking interventions.*
 
 > **Hack for Humanity Submission**
-> 📺 [Watch the Video Presentation](YOUR_VIDEO_LINK_HERE)  
+> 📺 [Watch the Video Presentation](https://drive.google.com/file/d/1CuHg2OIFSZgZyAe-GnB6_SGro3wkItUt/view?usp=sharing)  
 > 📊 [View the Master Pitch Deck & Wireframes](https://drive.google.com/file/d/1j5sWBTmepElpfBsFp8hcERJP70U_4dBA/view?usp=sharing)
 
 ---
